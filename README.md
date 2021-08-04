@@ -1,5 +1,7 @@
 # Examples of the usage RLC helper methods
 
+## Install dependencies
+`npm run setup`
 ## build
 `npm run build`
 

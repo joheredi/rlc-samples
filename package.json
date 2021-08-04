@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install azure-core-paging-1.1.4.tgz  azure-rest-agrifood-farming-1.0.0-beta.2.tgz  azure-rest-core-client-1.0.0-beta.6.tgz  azure-rest-core-client-lro-1.0.0-beta.1.tgz  azure-rest-core-client-paging-1.0.0-beta.1.tgz",
     "build": "tsc",
     "execute:lro": "node dist/lroSample.js",
     "execute:paging": "node dist/pagingSample.js"
